@@ -13,18 +13,23 @@
 a{
 	text-decoration: none;
 	margin-right:1rem;
+	margin-inline-start: 4rem;
+
 }
 a:hover{
 	color:black;
 }
 
-	
+a{
+	margin-bottom: 12;
+}	
 
 .Contenedor {
 	background-color: gray;
 	border: 2px solid red;
 	width: 80%;
 	max-width: 950px;
+	margin-top: 2rem;
 }
 
 .Contenedor__item  {
@@ -35,5 +40,23 @@ a:hover{
 .lista {
 	color: white;
 	list-style-type: none;
-	margin-bottom:1;
 }
+
+li{
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 2rem;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+p{
+	text-decoration: underline;
+	color:blue;
+}
+	
+
+
+
