@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.titulo{
+	font-size: 2 rem;
+	margin-bottom: 0,5 rem;
+}
+.Navegador:hover{
+	margin-bottom: 12;
+	color:black;
+	
+
+}
+a{
+	text-decoration: none;
+	margin-right:1rem;
+}
+a:hover{
+	color:black;
+}
+
+	
+
+.Contenedor {
+	background-color: gray;
+	border: 2px solid red;
+	width: 80%;
+	max-width: 950px;
+}
+
+.Contenedor__item  {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: red;
+}
+
+.lista {
+	color: white;
+	list-style-type: none;
+	margin-bottom:1;
+}
